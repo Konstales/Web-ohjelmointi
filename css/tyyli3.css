@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(218, 218, 55);
+}
+h2 {
+    text-align: center; 
+    font-family: Arial;
+    text-decoration: underline;
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-decoration: underline;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
